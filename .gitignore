@@ -4,6 +4,7 @@ mlartifacts/
 outputs/
 mlruns.db
 **/basic_auth.db
+**/kubeflow_auth.db
 
 # Mac
 .DS_Store
